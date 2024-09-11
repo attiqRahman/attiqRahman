@@ -1,16 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Atiqur Rahman 👋
 
-Welcome to my GitHub profile! I'm a [Your Job Title/Role] with a passion for [Your Interests or Fields]. Here's a bit about me:
+Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artificial intelligence. Here's a bit about me:
 
-- 🌱 I’m currently learning: [e.g., Machine Learning, Web Development, etc.]
-- 💬 Ask me about: [Topics you're knowledgeable in, e.g., Python, AI, etc.]
-- 📫 How to reach me: [Your email or social media links]
-- ⚡ Fun fact: [Something interesting about you]
+- 🌱 I’m currently learning: A
+- 💬 Ask me about: Artificial intelligence
+- 📫 How to reach me: rahman.md.attiq@gmail.com
+- ⚡ Fun fact: I build and fly drones in my spare time
 
-## 🔭 Projects I’m Working On
-
-- [**Project Name**](link-to-your-project): A brief description of the project.
-- [**Another Project**](link-to-another-project): A brief description of another project.
 
 ## 🛠️ Technologies & Tools
 
@@ -22,23 +18,12 @@ Welcome to my GitHub profile! I'm a [Your Job Title/Role] with a passion for [Yo
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
-
-## 📝 Blog Posts
-
-- [**Title of your blog post**](link-to-your-blog): A brief description of what the post is about.
-- [**Another blog post**](link-to-another-blog): A brief description of the second blog post.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=attiqRahman&show_icons=true&theme=radical)
 
 ## 👨‍💻 Languages & Tools
 
-- Programming Languages: Python, JavaScript, etc.
-- Frameworks: Django, Flask, etc.
+- Programming Languages: Python, C#, JavaScript.
+- Frameworks: Django, Flask and a lot more.
 - Tools: Git, Docker, etc.
 
 ---
