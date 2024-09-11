@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=attiqRahman&show_icons=true&theme=radical)
 
 ## 👨‍💻 Languages & Tools
 
