@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artificial intelligence. Here's a bit about me:
 
-- 🌱 I’m currently learning: A
-- 💬 Ask me about: Artificial intelligence
+- 🌱 I’m currently learning: Artificial intelligence
+- 💬 Ask me about: Python
 - 📫 How to reach me: rahman.md.attiq@gmail.com
 - ⚡ Fun fact: I build and fly drones in my spare time
 
