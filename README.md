@@ -4,6 +4,21 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+
+</div>
+
+
 ### 🧑‍💻 About Me
 
 - 🌱 **Currently Learning:** Diving deep into Artificial Intelligence and advanced Machine Learning algorithms.
