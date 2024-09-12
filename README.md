@@ -4,20 +4,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=attiqRahman&theme=dark&hide_border=true)
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attiqRahman&show_icons=true&theme=radical)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attiqRahman&layout=compact&theme=radical)
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=attiqRahman&theme=radical)
-
-</div>
-
 
 ### 🧑‍💻 About Me
 
