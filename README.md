@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 - 🌱 **Currently Learning:** Diving deep into Artificial Intelligence and advanced Machine Learning algorithms.
 - 💬 **Ask Me About:** Python, AI, drone technology, and creating PyPI packages.
-- ⚡ **Fun Fact:** I build and build drones in my spare time.
+- ⚡ **Fun Fact:** I build drones in my spare time.
 
 ---
 
