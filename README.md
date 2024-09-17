@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 ### 📦 My PyPI Packages
 
-- **[pytimer2](https://pypi.org/project/pytimer2/):** A lightweight countdown timer with pause, resume, and stop functionalities.  Popularity:  [![Downloads](https://static.pepy.tech/badge/pytimer2)](https://pepy.tech/project/pytimer2)
+- **[pytimer2](https://pypi.org/project/pytimer2/):** A lightweight countdown timer with pause, resume, and stop functionalities.    [![Downloads](https://static.pepy.tech/badge/pytimer2)](https://pepy.tech/project/pytimer2)
 - **[pyselenium](#):** Releasing soon!.
 - **[pysimplepostgre](#):** In development.
 
