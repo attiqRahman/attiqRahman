@@ -1,4 +1,4 @@
-# Hi there, I'm Atiqur Rahman 👋
+# Hi there, I'm Attiq Rahman 👋
 
 Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artificial Intelligence, Machine Learning, and creating tools that make life easier. I love building, breaking, and exploring new technologies—and when I’m not coding, you can probably find me flying my custom drones! 🛸
 
