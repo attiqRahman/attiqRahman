@@ -13,11 +13,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 ---
 
-### 🧑‍💻 Repositories
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAtiqurRahman&show_icons=true&count_private=true)
-
----
-
 ### 🔭 What I'm Working On
 
 - 🤖 **AI & ML Projects:** Teaching machines to think, learn, and make smarter decisions.
