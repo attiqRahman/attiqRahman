@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Artific
 
 ---
 
+### 🧑‍💻 Repositories
+![Repositories](https://img.shields.io/github/search/MohammadAtiqurRahman/repo/%20?label=Total%20Repositories&logo=github)
+
+---
+
 ### 🔭 What I'm Working On
 
 - 🤖 **AI & ML Projects:** Teaching machines to think, learn, and make smarter decisions.
